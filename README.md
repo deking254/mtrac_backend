@@ -1,6 +1,5 @@
-The backend code for mtrac app. You can find more info here
 # Project Name
-M-trac
+M-trac server intergration.
 
 ## Introduction
 An android app that calculates expenses and income based on incoming mpesa messages.
